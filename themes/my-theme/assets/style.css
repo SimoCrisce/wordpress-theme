@@ -1,0 +1,22 @@
+.side-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.side-list a {
+  text-decoration: none;
+  color: black;
+}
+
+.side-list li:last-child {
+  border-bottom: none;
+}
+
+.side-list li {
+  border-bottom: 1px solid grey;
+  padding: 20px;
+}
+
+.side-container {
+  background-color: beige;
+}
